@@ -14,5 +14,8 @@ Build a dashboard to enable data exploration.
 
 Only thing Student  Reviewers need to check are the two links below.
 
+
 Power BI Model - https://app.powerbi.com/links/2WXltq3xA7?ctid=bbce5c37-f181-4d0c-9310-7f877336e1cf&pbi_source=linkShare&bookmarkGuid=c849ed59-2c42-464e-ba73-cc90cd593759
-Video Presentation - 
+
+
+Video Presentation - https://www.dropbox.com/scl/fi/zpqjbykbcp16bm82wao4i/Capstone3.mov?rlkey=d1aeuszkz7rl3ppibief31p9v&st=wp01snml&dl=0
